@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **frontend web development.**
 
-- 👨‍💻 All of my projects are available at [marx-d43c0.web.app/index.html](marx-d43c0.web.app/index.html)
+- 👨‍💻 All of my projects are available at [marx-d43c0.web.app/index.html](https://shanmek.com)
 
 - 📫 How to reach me **shayanaffandi5785@gmail.com**
 
